@@ -4,3 +4,5 @@ This is a tiny implementation of the Digital Rain effect from the Matrix.  It's 
 The 5151 is a green-screen monitor with a high persistence phosphor.  That means it has an afterglow.
 
 Most Digital Rain implementations simulate this afterglow.  This implementation however completely relies on the afterglow being a real effect of the monitor.
+
+You can see it in action [here](https://youtu.be/1Ebu5C-mwTM).
